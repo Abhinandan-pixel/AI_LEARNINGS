@@ -1,0 +1,16 @@
+[project]
+name = "AI_Learnings"
+version = "0.1.0"
+description = "My AI Learnings"
+readme = "README.md"
+requires-python = ">=3.12"
+
+dependencies = [
+    "openai-agents>=0.0.15",
+    "python-dotenv>=1.0.1",
+    "sendgrid>=6.11.0",
+    "pydantic",
+]
+
+[tool.uv]
+dev-dependencies = []
