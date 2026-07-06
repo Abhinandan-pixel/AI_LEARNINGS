@@ -1,0 +1,7 @@
+While the intention behind banning social media access for users under 16 to protect mental health is understandable, such a legal restriction is neither practical nor the most effective solution. First, outright bans ignore the reality that young people increasingly rely on social media for essential social interaction, education, and self-expression. Denying them access could isolate them from their peers, potentially harming their social development rather than protecting it.
+
+Second, a legal ban risks driving underage users to unregulated, underground platforms or using false information to create accounts, where there is even less oversight and greater vulnerability to harmful content. Instead of shielding young people, it could expose them to greater risks.
+
+Third, mental health challenges linked to social media are complex and multifaceted, rooted not simply in access but in how platforms are designed and used. Rather than imposing blunt age bans, we should focus on improving digital literacy, parental engagement, and platform accountability—ensuring safer, age-appropriate experiences. 
+
+In short, a legal ban under 16 oversimplifies a complex issue, potentially creates more harm, and ignores more nuanced, effective strategies to protect youth mental health while respecting their social realities and rights.

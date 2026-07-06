@@ -10,7 +10,11 @@ dependencies = [
     "python-dotenv>=1.0.1",
     "sendgrid>=6.11.0",
     "pydantic",
+    "crewai[tools]>=1.14.7",
 ]
 
 [tool.uv]
 dev-dependencies = []
+
+[tool.uv.workspace]
+members = ["crew/debate"]

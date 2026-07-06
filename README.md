@@ -1,5 +1,14 @@
-# AI_LEARNINGS
-# Deep Research Agent
+# AI Learnings
+
+A collection of hands-on AI agent projects for learning and experimentation.
+
+## Projects
+
+### [Debate Crew](crew/debate/README.md)
+
+A multi-agent debate simulator built with CrewAI. Give it a motion and two debaters argue for and against it; an impartial judge then declares a winner. See the [Debate Crew README](crew/debate/README.md) for setup, agents, and customization.
+
+### Deep Research Agent
 
 This project is a simple multi-agent research workflow built using the OpenAI Agents SDK.
 
