@@ -17,4 +17,4 @@ dependencies = [
 dev-dependencies = []
 
 [tool.uv.workspace]
-members = ["crew/debate"]
+members = ["crew/*"]

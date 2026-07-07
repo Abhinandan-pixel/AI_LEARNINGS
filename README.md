@@ -4,9 +4,13 @@ A collection of hands-on AI agent projects for learning and experimentation.
 
 ## Projects
 
+### [Finance Research Crew](crew/financial_researcher/README.md)
+
+A multi-agent financial research system built with CrewAI. Give it a company name, and the crew researches the business using recent web sources before producing a structured financial report with market insights.
+
 ### [Debate Crew](crew/debate/README.md)
 
-A multi-agent debate simulator built with CrewAI. Give it a motion and two debaters argue for and against it; an impartial judge then declares a winner. See the [Debate Crew README](crew/debate/README.md) for setup, agents, and customization.
+A multi-agent debate simulator built with CrewAI. Give it a motion and two debaters argue for and against it; an impartial judge then declares a winner.
 
 ### Deep Research Agent
 
