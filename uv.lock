@@ -11,6 +11,7 @@ members = [
     "ai-learnings",
     "debate",
     "financial-researcher",
+    "stock-picker",
 ]
 
 [[package]]
@@ -2479,6 +2480,17 @@ sdist = { url = "https://files.pythonhosted.org/packages/25/44/ec35f1b6e83094b99
 wheels = [
     { url = "https://files.pythonhosted.org/packages/1c/54/196d0c1db10af76baa4f64894448505d60d3cdf70ef92cbb35f46a4e4c71/starlette-1.2.1-py3-none-any.whl", hash = "sha256:4de0082d08c8f6764a85a54cf1120d6939507a19905c7768acad2a9f875d2b89", size = 73350, upload-time = "2026-05-31T01:07:50.09Z" },
 ]
+
+[[package]]
+name = "stock-picker"
+version = "0.1.0"
+source = { editable = "crew/stock_picker" }
+dependencies = [
+    { name = "crewai", extra = ["tools"] },
+]
+
+[package.metadata]
+requires-dist = [{ name = "crewai", extras = ["tools"], specifier = "==1.14.7" }]
 
 [[package]]
 name = "tenacity"

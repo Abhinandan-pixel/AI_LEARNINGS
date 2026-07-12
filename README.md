@@ -4,6 +4,10 @@ A collection of hands-on AI agent projects for learning and experimentation.
 
 ## Projects
 
+### [Stock Picker Crew](crew/stock_picker/README.md)
+
+A multi-agent stock research system built with CrewAI. Give it a market sector, and the crew identifies trending companies, researches each one using recent web sources, and recommends the best investment opportunity.
+
 ### [Finance Research Crew](crew/financial_researcher/README.md)
 
 A multi-agent financial research system built with CrewAI. Give it a company name, and the crew researches the business using recent web sources before producing a structured financial report with market insights.
