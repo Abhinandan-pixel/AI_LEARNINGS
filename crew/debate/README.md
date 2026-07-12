@@ -1,8 +1,6 @@
 # Debate Crew
 
-A multi-agent debate simulator built with [CrewAI](https://docs.crewai.com). Give it a motion — a debatable proposition — and two AI debaters will argue for and against it. An impartial judge then reviews both sides and declares a winner based purely on the strength of the arguments.
-
-This project lives inside the [AI_LEARNINGS](../../) workspace and is a hands-on example of orchestrating collaborative AI agents with YAML-driven configuration.
+A multi-agent debate simulator built with [CrewAI](https://docs.crewai.com). Give it a motion. A debatable proposition and two AI debaters will argue for and against it. An impartial judge then reviews both sides and declares a winner based purely on the strength of the arguments.
 
 ## How It Works
 

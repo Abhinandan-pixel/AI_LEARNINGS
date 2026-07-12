@@ -2,7 +2,13 @@
 
 A collection of hands-on AI agent projects for learning and experimentation.
 
+Newer projects are listed at the top.
+
 ## Projects
+
+### [Coding Crew](crew/stock_picker/README.md)
+A simple single-agent coding assistant built with CrewAI. Give it a programming assignment, and the agent writes Python code, executes it inside a sandboxed environment, validates the output, and generates a solution summary.
+P.S: Not a big fan of this 😭
 
 ### [Stock Picker Crew](crew/stock_picker/README.md)
 
