@@ -67,7 +67,7 @@ def run_sandbox_python(filename: str) -> str:
 
     result = subprocess.run(
         [
-            "docker", "run", "-rm",
+            "docker", "run", "--rm",
             "-v", f"{SANDBOX_DIR}:/workspace",
             "-w", "/workspace",
             "python:3.13-slim",

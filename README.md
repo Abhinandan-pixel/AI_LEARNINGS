@@ -5,10 +5,12 @@ A collection of hands-on AI agent projects for learning and experimentation.
 Newer projects are listed at the top.
 
 ## Projects
+### [Engineering Team](crew/engineering_team/README.md)
+A multi-agent software engineering system built with CrewAI. Give it a set of software requirements, and the crew collaboratively designs, implements, tests, and validates a working solution.
+P.S: Not a big fan of this 😭
 
 ### [Coding Crew](crew/coder/README.md)
 A simple single-agent coding assistant built with CrewAI. Give it a programming assignment, and the agent writes Python code, executes it inside a sandboxed environment, validates the output, and generates a solution summary.
-P.S: Not a big fan of this 😭
 
 ### [Stock Picker Crew](crew/stock_picker/README.md)
 
